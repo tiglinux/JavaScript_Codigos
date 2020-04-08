@@ -1,3 +1,5 @@
+
+
 //Array são listas
 const alunos = [
     'Tiago','Lucas','João','Jorge' // Array do tipo String;
@@ -23,6 +25,5 @@ console.log(`O tamanho total do array é ${alunos.length} posições.`);
 //Fatiando array.
 console.log(alunos.slice(0,2)); //Slice fatia array posição de array e strings.
 
-//Mostrando tipo de variavel,array..
-
-
+//mostrando tipo de arquivo
+console(typeof(alunos));
